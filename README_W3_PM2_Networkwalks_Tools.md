@@ -88,7 +88,7 @@ The first step was downloading the password-protected PDF file provided for the 
 
 The file was used exclusively as part of the authorized Networkwalks cybersecurity training lab.
 
-> 📸 **[Insert screenshot of the locked PDF file here]**
+> 📸 **[Screenshot of- Downloading the encrypted PDF file (My Locked PDF1.pdf) 2026-08-25 113621]**
 
 ---
 
@@ -98,7 +98,7 @@ The **Networkwalks Hash Calculator** was opened in a web browser.
 
 The tool was used to process the locked PDF and extract the password hash.
 
-![Networkwalks Hash Calculator Upload Interface](screenshots/hash-calculator-upload.png)
+![Networkwalks Hash Calculator Upload Interface](Screenshot of- Networkwalks Hash Calculator in your web browser with  hash tool showing value that starts with $pdf$ 2026-08-25 110406)
 
 **Figure 1:** Networkwalks Hash Calculator in the web browser showing the upload interface.
 
@@ -116,7 +116,7 @@ $pdf$...
 
 The complete hash value was copied for the next stage of the exercise.
 
-![Extracted Password Hash](screenshots/extracted-password-hash.png)
+![Extracted Password Hash](Screenshot of- screenshotsextracted-password-hash 2026-08-25 122417)
 
 **Figure 2:** Extracted hash value beginning with `$pdf$` displayed in the Networkwalks Hash Calculator.
 
@@ -148,7 +148,7 @@ The amount of time required can depend on factors such as:
 - Available wordlists
 - Password recovery method
 
-![Password Recovery Process](screenshots/password-cracking-process.png)
+![Password Recovery Process](Screenshot of screenshotspassword-cracking-process2026-08-25 122433)
 
 **Figure 4:** Password recovery process showing the password crack for My-LockerPDF1.
 
@@ -160,7 +160,7 @@ After the recovery process was completed, the recovered password was displayed.
 
 The result was then used to test whether the password could successfully unlock the provided PDF.
 
-![Password Recovery Result](screenshots/password-cracker-result.png)
+![Password Recovery Result](Screenshot of- Networkwalks Password Cracker- result showning the password crack for My-LockerPDF1 2026-08-25 110126)
 
 **Figure 5:** Password recovery result displayed in the Networkwalks Password Cracker.
 
@@ -172,7 +172,7 @@ The recovered password was entered into the protected PDF.
 
 The successful opening of the file confirmed that the password recovery process was completed successfully.
 
-![My-LockerPDF1 Successfully Cracked](screenshots/my-lockerpdf1-successfully-cracked.png)
+![My-LockerPDF1 Successfully Cracked](Screenshot of- My-LockerPDF1_Successfully Cracked 2026-08-25 110435)
 
 **Figure 6:** My-LockerPDF1 successfully unlocked with the recovered password.
 
