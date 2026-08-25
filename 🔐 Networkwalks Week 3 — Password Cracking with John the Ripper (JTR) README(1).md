@@ -84,7 +84,7 @@ John the Ripper is a password recovery tool used by security professionals to ev
 
 ### 📸 Screenshot
 
-> 🖼️ **[INSERT JOHN THE RIPPER INSTALLATION SCREENSHOT HERE]**
+> 🖼️ **[Screenshot of -Installation setup ofJohn the Ripper2026-08-25 135702]**
 
 ---
 
@@ -96,7 +96,7 @@ After installation, Johnny was configured to locate the `john.exe` executable.
 
 ### 📸 Screenshot
 
-> 🖼️ **[INSERT JOHNNY CONFIGURATION SCREENSHOT HERE]**
+> 🖼️ **[Screenshot of- installing-locating and configering Johnny.exe 2026-08-25 112521]**
 
 ---
 
@@ -164,15 +164,14 @@ The recovery time can vary depending on factors such as:
 
 ### 📸 Screenshot
 
-![Figure 3 - Password recovery for My-LockerPDF1](screenshots/Screenshot%20of%20Johnny%20Crackraker-cracking%20the%20password%20for%20My-LockerPDF1%202026-08-25%20104035.png)
-
+![Figure 3 - Password recovery for My-LockerPDF1](Screenshot of Johnny Crackraker- cracking the password for My-LockerPDF1 2026-08-25 104035.png)
 **Figure 3:** Password recovery process for My-LockerPDF1.
 
-![Figure 4 - Password recovery for My-LockerPDF2](screenshots/Screenshot%20of%20Johnny%20Crackraker-cracking%20the%20password%20for%20My-LockerPDF2%202026-08-25%20101636.png)
+![Figure 4 - Password recovery for My-LockerPDF2](Screenshot of Johnny Crackraker- cracking the password for My-LockerPDF2 2026-08-25 101636.png)
 
 **Figure 4:** Password recovery process for My-LockerPDF2.
 
-![Figure 5 - Password recovery for My-LockerPDF3](screenshots/Screenshot%20of%20Johnny%20Crackraker-cracking%20the%20password%20for%20My-LockerPDF3%202026-08-25%20103353.png)
+![Figure 5 - Password recovery for My-LockerPDF3](Screenshot of Johnny Crackraker- cracking the password for My-LockerPDF3 2026-08-25 103353.png)
 
 **Figure 5:** Password recovery process for My-LockerPDF3.
 
@@ -186,15 +185,15 @@ The successful opening of the document confirmed that the password recovery proc
 
 ### 📸 Screenshot
 
-![Figure 6 - My-LockerPDF1 successfully unlocked](screenshots/Screenshot%20of%20My-Locker%20PDF1%20Successfully%20Crack2026-08-25%20101115.png)
+![Figure 6 - My-LockerPDF1 successfully unlocked](Screenshot of My-Locker PDF1 Successfully Crack2026-08-25 101115.png)
 
 **Figure 6:** My-LockerPDF1 successfully unlocked with the recovered password.
 
-![Figure 7 - My-LockerPDF2 successfully unlocked](screenshots/Screenshot%20of%20My-Locker%20PDF2%20Successfully%20Crack%202026-08-25%20101730.png)
+![Figure 7 - My-LockerPDF2 successfully unlocked](Screenshot of My-Locker PDF2 Successfully Crack 2026-08-25 101730.png)
 
 **Figure 7:** My-LockerPDF2 successfully unlocked with the recovered password.
 
-![Figure 8 - My-LockerPDF3 successfully unlocked](screenshots/Screenshot%20of%20My-Locker%20PDF3%20Successfully%20Crack%202026-08-25%20103457.png)
+![Figure 8 - My-LockerPDF3 successfully unlocked](Screenshot  of My-Locker PDF3 Successfully Crack 2026-08-25 103457.png)
 
 **Figure 8:** My-LockerPDF3 successfully unlocked with the recovered password.
 
