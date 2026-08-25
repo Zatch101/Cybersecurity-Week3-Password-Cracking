@@ -114,7 +114,7 @@ The hash was then copied into a text file.
 
 ### 📸 Screenshot
 
-![Figure 1 - Extracting the password hash from the locked PDF](screenshots/Screenshot%20of%20Hash%20Website_uploadedin%20PDF%202026-08-25%20105926.png)
+![Figure 1 - Extracting the password hash from the locked PDF](Screenshot of-hash website extracting  2026-08-25 105111.png)
 
 **Figure 1:** Extracting the password hash from the locked PDF using the Networkwalks Hash Calculator.
 
@@ -132,7 +132,7 @@ This file was then prepared for use with Johnny and John the Ripper.
 
 ### 📸 Screenshot
 
-> 🖼️ **[INSERT HASH1.TXT SCREENSHOT HERE]**
+> 🖼️ **[Screenshot 2026-08-25 143239]**
 
 ---
 
@@ -144,7 +144,7 @@ The password hash was then ready for the recovery process.
 
 ### 📸 Screenshot
 
-![Figure 2 - Loading the hash into Johnny](screenshots/Screenshot%20of%20Johnny%20Crackraker-cracking%20the%20password%20for%20My-LockerPDF1%202026-08-25%20104035.png)
+![Figure 2 - Loading the hash into Johnny](sScreenshot 2026-08-25 112436.png)
 
 **Figure 2:** Loading the hash file into Johnny for password recovery.
 
