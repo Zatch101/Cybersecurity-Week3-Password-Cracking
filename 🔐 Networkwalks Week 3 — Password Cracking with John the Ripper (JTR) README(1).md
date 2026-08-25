@@ -296,9 +296,11 @@ Unauthorized access to protected files, systems, or accounts may be illegal.
 
 # 👤 Author
 
-**Kemar Goldburn**
+**Kemar Goulbourne**
 
 Cybersecurity & Information Technology Student
+Cybersecurity B082 – Batch A442
+LinkedIn: https://www.linkedin.com/in/kemar-gouldbourne-a5008317a/
 
 🇯🇲 Jamaica
 
